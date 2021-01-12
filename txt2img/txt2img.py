@@ -6,7 +6,6 @@
 
 from PIL import Image, ImageDraw
 
-
 def generate(width, height, text, bg="white", text_x=10, text_y=10, fg="black", filename="image.png"):
  """Generate an image.
  Parems:

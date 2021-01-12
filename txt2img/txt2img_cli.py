@@ -5,7 +5,6 @@
 # MIT License.
 
 import txt2img
-
 import argparse
 
 parser = argparse.ArgumentParser()
