@@ -7,16 +7,7 @@
 from PIL import Image, ImageDraw
 
 
-def generate(
- width: int,
- height: int,
- text: str,
- bg: str = "white",
- text_x: int = 10,
- text_y: int = 10,
- fg: str = "black",
- filename: str = "image.png",
-):
+def generate(width, height, text, bg="white", text_x=10, text_y=10, fg="black", filename="image.png"):
  """Generate an image.
  Parems:
   width: the width (in pixels), of the image.
