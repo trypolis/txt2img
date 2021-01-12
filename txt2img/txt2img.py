@@ -1,7 +1,7 @@
 # txt2img
 # Make images out of basic text.
 #
-# Copyright (C) 2020, Ty Gillespie. ALl rights reserved.
+# Copyright (C) 2020-2021, Ty Gillespie. All rights reserved.
 # MIT License.
 
 from PIL import Image, ImageDraw
